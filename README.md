@@ -1,6 +1,6 @@
 [![MasterHead](https://dezinebrainz.com/images/web-design-gif.gif)](#)
 <h1 align="center">Hi 👋, I'm Farhan</h1>
-<h3 align="center">Senior Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 <img align="right" alt="coding" src= "https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 - 🌱 I’m passionate about learning new technologies.
